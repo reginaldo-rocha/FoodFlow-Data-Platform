@@ -133,6 +133,28 @@ foodflow-data-platform/
 
 ---
 
+## 📸 Implementação no BigQuery
+
+### Estrutura das camadas
+
+<img width="1897" height="931" alt="image" src="https://github.com/user-attachments/assets/c4c3cd44-09f2-4fb9-824e-102649d21e74" />
+
+
+### Validação das camadas
+
+<img width="1901" height="963" alt="image" src="https://github.com/user-attachments/assets/1fb25e63-5aa7-4f19-8ae6-4a2aa7dff886" />
+
+
+### Modelo Gold
+
+<img width="1900" height="960" alt="image" src="https://github.com/user-attachments/assets/348305d3-cae8-4384-ba9c-7f8f8a3668bc" />
+
+
+### Consulta analítica
+
+<img width="1899" height="921" alt="image" src="https://github.com/user-attachments/assets/b0ea0ed4-41b9-4a2a-950e-c2f551e9bc45" />
+
+
 ## 👨‍💻 Autor
 
 Reginaldo Rocha  
