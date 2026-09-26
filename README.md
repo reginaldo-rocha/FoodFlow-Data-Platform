@@ -14,15 +14,54 @@ arquitetura à medida que problemas reais aparecem.
 
 ## 🎯 Contexto
 
-A FoodFlow é uma empresa fictícia com múltiplas unidades.
+## 🎯 Contexto do projeto
 
-As fontes iniciais são:
+A **FoodFlow Restaurants** é uma empresa fictícia que começou com poucas unidades e cresceu ao longo do tempo.
 
-- arquivos de pedidos;
-- arquivos de itens dos pedidos;
-- dados mestres equivalentes a produto, unidade, estado e país.
+Com a expansão da operação, aumentou também o volume de dados gerados diariamente, principalmente relacionados a:
 
-O objetivo é centralizar, tratar e disponibilizar os dados para análise no BigQuery.
+- pedidos;
+- itens vendidos;
+- valores;
+- status das vendas;
+- canais de atendimento;
+- unidades responsáveis pelas vendas.
+
+Além dos dados operacionais, a matriz também mantém dados mestres sobre:
+
+- produtos;
+- unidades;
+- estados;
+- países.
+
+À medida que a empresa cresceu, surgiu a necessidade de centralizar essas informações, reduzir processos manuais e disponibilizar dados de forma mais rápida e confiável para análise e tomada de decisão.
+
+Foi a partir desse cenário que surgiu o **FoodFlow Data Platform**.
+
+A primeira versão do projeto foi criada com o objetivo de estabelecer uma arquitetura base funcional, capaz de receber os dados, organizá-los em camadas e disponibilizá-los para consumo analítico.
+
+O fluxo inicial foi definido como:
+
+**Dados de origem → Bronze → Silver → Gold → BigQuery → Analytics**
+
+A proposta do projeto é evoluir essa arquitetura gradualmente.
+
+A cada nova versão, um novo desafio de Engenharia de Dados será introduzido, analisado e resolvido.
+
+Entre as próximas evoluções estão:
+
+- Data Quality;
+- Schema Validation;
+- idempotência;
+- reprocessamento;
+- carga incremental;
+- observabilidade;
+- Schema Evolution;
+- governança;
+- segurança;
+- FinOps.
+
+O objetivo é demonstrar como uma arquitetura simples pode ganhar maturidade à medida que novos problemas e necessidades de negócio aparecem.
 
 ---
 
