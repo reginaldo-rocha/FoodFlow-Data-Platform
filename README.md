@@ -20,6 +20,9 @@ A **FoodFlow Restaurants** é uma empresa fictícia que começou com poucas unid
 
 Com a expansão da operação, aumentou também o volume de dados gerados diariamente, principalmente relacionados a:
 
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/b5ef58d5-3bbc-49c6-8483-1a7b747763e1" />
+
+
 - pedidos;
 - itens vendidos;
 - valores;
