@@ -132,6 +132,9 @@ Exemplo de saída analítica já validada:
 - **V1.7** — FinOps + Performance
 - **V2.0** — Alertas + Recomendações
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a5bd5a44-c32c-44a1-9b6f-e7dc13788b4c" />
+
+
 ---
 
 ## 🧠 Estratégia de evolução
