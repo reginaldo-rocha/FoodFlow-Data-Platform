@@ -12,8 +12,6 @@ arquitetura à medida que problemas reais aparecem.
 
 ---
 
-## 🎯 Contexto
-
 ## 🎯 Contexto do projeto
 
 A **FoodFlow Restaurants** é uma empresa fictícia que começou com poucas unidades e cresceu ao longo do tempo.
@@ -107,7 +105,7 @@ Modelo analítico simples:
 
 A primeira versão já está funcionando no BigQuery.
 
-Validações executadas:
+Validações 
 
 - contagem consistente entre Bronze e Silver;
 - relacionamento entre pedidos e itens;
